@@ -6,7 +6,7 @@ This project analyzes and ranks countries based on a combination of key indicato
 
 Click below to launch the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joel1993055/Global-Market-Attractiveness-Analysis-using-Open-Data/blob/main/Notebook/01_market_analysis_updated.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joel1993055/Global-Market-Attractiveness-Analysis-using-Open-Data/blob/main/Notebooks/01_market_analysis_updated.ipynb)
 
 
 ---
