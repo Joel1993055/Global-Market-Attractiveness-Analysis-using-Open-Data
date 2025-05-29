@@ -8,7 +8,7 @@ This project analyzes and ranks countries based on a combination of economic, de
 
 Click below to run the full notebook online:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joel1993055/Global-Market-Attractiveness-Analysis-using-Open-Data/blob/main/notebooks/01_market_analysis (1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joel1993055/Global-Market-Attractiveness-Analysis-using-Open-Data/blob/main/notebooks/01_market_analysis_01.ipynb)
 
 
 ---
